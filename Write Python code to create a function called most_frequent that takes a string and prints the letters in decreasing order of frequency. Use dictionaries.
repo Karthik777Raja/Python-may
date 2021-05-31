@@ -1,0 +1,8 @@
+from collections import Counter
+
+def most_frequent():
+    res = Counter(text)
+    print (res)
+
+text = input("Enter any string :")
+most_frequent()
